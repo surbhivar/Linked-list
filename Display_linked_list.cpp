@@ -32,7 +32,7 @@ void Display(struct Node *p)
  p=p->next;
  }
 }
-
+//Main function
 int main()
 {
  struct Node *temp;
