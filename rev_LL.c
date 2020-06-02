@@ -10,7 +10,7 @@ struct node {
 void createList(int n);
 void reverseList();
 void displayList();
-
+//Main function
 int main()
 {
     int n, choice;
