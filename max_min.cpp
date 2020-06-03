@@ -7,7 +7,7 @@ struct Node {
 	struct Node* next;
 };
 
-
+//Function for largest element
 int largestElement(struct Node* head)
 {
 
