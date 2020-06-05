@@ -51,7 +51,7 @@ struct Node *insertAtEnd(struct Node *last, int new_data)
 
    return last;
 }
-
+// Function to insert after
 struct Node *insertAfter(struct Node *last, int new_data, int after_item)
 {
    if (last == NULL)
