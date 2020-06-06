@@ -6,6 +6,7 @@ struct Node
  int data;
  struct Node *next;
 }*first=NULL,*second=NULL,*third=NULL;
+// To display list
 void Display(struct Node *p)
 {
  while(p!=NULL)
