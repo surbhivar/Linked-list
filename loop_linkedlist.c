@@ -15,6 +15,7 @@ void Display(struct Node *p)
  p=p->next;
  }
 }
+//To create list
 void create(int A[],int n)
 {
  int i;
